@@ -1,0 +1,22 @@
+{
+    "models": [
+        "girls-frontline/ump45_3403",
+        "girls-frontline-destroy/ump45_3403",
+        "girls-frontline-destroy/ots14_3001",
+        "girls-frontline/ots14_3001",
+        "girls-frontline/ots14_1203",
+        "girls-frontline-destroy/ots14_1203",
+        "girls-frontline/hk416_3401",
+        "girls-frontline-destroy/hk416_3401",
+        "girls-frontline/HK416_805",
+        "girls-frontline-destroy/HK416_805",
+        "girls-frontline-destroy/g36_1904",
+        "girls-frontline-destroy/g36_2407",
+        "girls-frontline-destroy/K2_3301",
+        "girls-frontline-destroy/rfb_1601",
+        "girls-frontline/g36_1904"
+    ],
+    "messages": [
+        "嗨！主人我来喽 ~"
+    ]
+}
